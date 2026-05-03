@@ -27,3 +27,4 @@ while True:
         break
 
 print("Thank you for using the calculator!")
+print("Have a great day!")
