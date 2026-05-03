@@ -25,3 +25,5 @@ while True:
     if user_answer == "n":
         print("Goodbye!")
         break
+
+print("Thank you for using the calculator!")
